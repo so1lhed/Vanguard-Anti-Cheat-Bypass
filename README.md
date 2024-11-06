@@ -2,7 +2,9 @@
 Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans
 <br>
 
-![image](https://github.com/terr1ble99/Monotone-HWID-Spoofer/assets/160106777/91aaf9fa-4c45-4c42-8db7-b3a3c9e8a09a)
+![image](https://github.com/user-attachments/assets/88420dc5-f175-4469-b0d9-b2af038f3518)
+
+![image](https://github.com/user-attachments/assets/591f57b5-e283-4437-9fe5-016b82bfc908)
 
 
 ## How To Use
